@@ -1,0 +1,5 @@
+{
+  "name": "Viral Script Generator",
+  "description": "An application that transforms video scripts into engaging, viral content in Portuguese using AI. Paste your script, and get a rewritten version with a strong hook and a call-to-action, ready for social media.",
+  "requestFramePermissions": []
+}
